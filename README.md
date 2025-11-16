@@ -21,6 +21,15 @@ Total Memory: 6.00 GB
 
 
 
+
+
+
+
+
+
+
+
+
 2. Collect-EventLogs.ps1
 
 Exports recent Application and System event logs to a single text file on the Desktop.
